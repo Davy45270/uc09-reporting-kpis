@@ -1,2 +1,3 @@
-# uc09-reporting-kpis
-UC09 Reporting &amp; KPIs
+# UC09 Reporting & KPIs
+
+Use case repo for UC09 Reporting & KPIs.
